@@ -1,20 +1,22 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" />
+  <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammed Falah</h1>
-<h3 align="center">Entrepreneur | Full-Stack Web & Mobile Developer | UI Engineer | 3D Animator</h3>
+<h3 align="center">Entrepreneur | Full-Stack Web & Mobile Developer | AI Specialist | UI Engineer | 3D Animator</h3>
 
 ---
 
 ### 🚀 About Me
 - 💻 Founder of **[Altiora Web](https://www.altiora.in)** – building secure, optimized, and modern websites  
-- 📬 Founder of **Click Spark** – email marketing agency for real estate  
-- 📱 Building **[Sadaad](#)** – an Islamic self-mastery app  
+- 📬 Founder of **Click Spark** – real estate email marketing agency  
+- 📱 Building **Sadaad** – an Islamic self-mastery app  
 - 🎥 Developing **Knff Cam** – an AI-powered cinematic camera app  
-- 🌍 **Website Infrastructure Manager** at **Le Prisitne (UAE)**  
-- ⚡ Fun fact: I started entrepreneurship at 12; love football & boxing  
+- 🌍 **E-Commerce Infrastructure Manager** at **Le Prisitne (UAE)**  
+- 🤖 Creator of AI tools & programs (Jarvis-style assistants, automations, etc.)  
+- 🔗 Skilled with **n8n automation** and API workflows  
+- ⚡ Fun fact: Started entrepreneurship at 12; love football & boxing  
 
 ---
 
@@ -54,6 +56,13 @@
 ![PayPal](https://img.shields.io/badge/PayPal-%23003087.svg?style=for-the-badge&logo=paypal&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-%23002056.svg?style=for-the-badge&logo=razorpay&logoColor=white)
 
+#### 🤖 AI & Automation
+![AI](https://img.shields.io/badge/AI-Tools-%2300C853.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-%23FF6F00.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
 #### 🔧 DevOps & Hosting
 ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -69,18 +78,10 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema4D-%23111.svg?style=for-the-badge&logo=cinema4d&logoColor=blue)
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedfalahh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedfalahh&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌍 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.altiora.in" target="_blank"><img src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:muhammedfalah90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/muhammedfalahh" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
