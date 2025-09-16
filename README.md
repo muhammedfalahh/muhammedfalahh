@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./banner.jpeg" alt="Banner" />
+  <img src="./banner.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammed Falah</h1>
